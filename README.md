@@ -1,0 +1,1 @@
+This repository contains a bash script with a subtle bug related to finding the largest number in a list. The bug arises from incorrect comparison of numbers (string comparison instead of numerical comparison).  The `bug.sh` file contains the buggy script, while `bugSolution.sh` provides the corrected version.  The bug is described in detail within the JSON file.
